@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpeedSterShit", "SpeedSterShit\SpeedSterShit.vcxproj", "{CECBEA59-4151-4F0D-A007-091A057762FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CECBEA59-4151-4F0D-A007-091A057762FB}.Debug|x64.ActiveCfg = Debug|x64
+		{CECBEA59-4151-4F0D-A007-091A057762FB}.Debug|x64.Build.0 = Debug|x64
+		{CECBEA59-4151-4F0D-A007-091A057762FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{CECBEA59-4151-4F0D-A007-091A057762FB}.Debug|x86.Build.0 = Debug|Win32
+		{CECBEA59-4151-4F0D-A007-091A057762FB}.Release|x64.ActiveCfg = Release|x64
+		{CECBEA59-4151-4F0D-A007-091A057762FB}.Release|x64.Build.0 = Release|x64
+		{CECBEA59-4151-4F0D-A007-091A057762FB}.Release|x86.ActiveCfg = Release|Win32
+		{CECBEA59-4151-4F0D-A007-091A057762FB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {897C66EC-C5F3-40E0-A86C-FF1253E6FFD7}
+	EndGlobalSection
+EndGlobal
